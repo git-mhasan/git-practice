@@ -2,3 +2,14 @@ p{
     background-color: cyan;
     color :red;
 }
+header ul>li{
+    /* text-decoration: none; */
+    list-style-type: none;
+    padding: 5px 10px;
+    background-color: burlywood;
+    border-left: 2px solid white;
+    /* border-right: 2px solid white; */
+}
+header ul{
+    display: flex;
+}
